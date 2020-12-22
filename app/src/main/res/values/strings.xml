@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">DarQ</string>
+    <string name="app_name">暗黑模式</string>
     <string name="accessibility_service_description">DarQ Accessibility Service\n\nRequired for the app to work, allows it to monitor apps running and enable/disable the force-dark setting accordingly. Enable it and return the app to continue.\n\nPLEASE NOTE:\nAs of Android 10, when enabling an accessibility service, no matter how minor its access, you will be warned that the service can read the screen and act on behalf of you, and that it is not appropriate for most apps. This is normal, please just tap \'Ok\'. If you wish to view what DarQ is doing (and more importantly, not doing) programmatically, you can view its source on GitHub.\n\nNote for non-root users:\nEnabling or disabling this toggle will require you to run the script from your computer again.</string>
     <string name="setting_dark_mode_title">Enable Dark Theme</string>
     <string name="setting_dark_mode_desc">Toggle the main system dark theme</string>
